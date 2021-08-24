@@ -2,7 +2,7 @@
 - 👀 I’m interested in Intel
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on Intel projects
-- 📫 How to reach me : andrew.j.herdrich@intel.com
+- 📫 How to reach me : Check the version history on this file.
 
 <!---
 ajherdri/ajherdri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
